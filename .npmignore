@@ -1,0 +1,7 @@
+.git
+.DS_Store
+.gitignore
+.npmignore
+
+node_modules
+examples/*.html

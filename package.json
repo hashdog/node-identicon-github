@@ -1,0 +1,36 @@
+{
+  "name": "identicon-github",
+  "version": "0.0.1",
+  "description": "Create indenticon-like visual hashes styled like Github and Gravatar (retro) avatars",
+  "main": "index.js",
+  "homepage": "https://github.com/hashdog/node-identicon-github",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hashdog/node-identicon-github.git"
+  },
+  "keywords": [
+    "identicon",
+    "avatar",
+    "visualization",
+    "profile",
+    "fingerprint",
+    "image",
+    "hash",
+    "visual hash",
+    "github",
+    "gravatar"
+  ],
+  "author": "Mario Colque <mario@hashdog.io>",
+  "license": "BSD",
+  "dependencies": {
+    "canvas": "^1.2.3",
+    "lodash": "^3.10.0"
+  },
+  "readmeFilename": "README.md",
+  "directories": {
+    "example": "examples"
+  }
+}
