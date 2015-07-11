@@ -3,7 +3,7 @@ node-identicon-github
 
 [![Dependency Status](http://img.shields.io/david/hashdog/node-identicon-github.svg?style=flat-square)](https://david-dm.org/hashdog/node-identicon-github)
 
-The author of node-identicon-github has not maintain module for a long time (since 2013).
+The author of https://github.com/sehrgut/node-retricon has not maintain module for a long time (since 2013).
 Some dependencies has been updated and we need to use it.
 
 Create indenticon-like image hashes styled like [Github][ghid] and [Gravatar (retro)][gravatar] avatars
